@@ -34,6 +34,19 @@ The main motivation behind this app was we wanted to be able to organize and rem
 * **Niyati Shah** - [niyati15](https://github.com/niyati15)
 * **Yumna Akhtar** - [yumnakhtar](https://github.com/yumnakhtar)
 
+## Routes :movie_camera:
+
+<h1 align="center">
+  <img src="public/image/api-routes(1)" alt="buckeTodo" width="500">
+   <img src="public/image/api-routes(2)" alt="buckeTodo" width="500">
+</h1>
+<h1 align="center">
+  <img src="public/image/api-routes(2)" alt="buckeTodo" width="500">
+</h1>
+
+
+Because this was a full stack app, we had to create our own routes for our client to interact with the server. We had to definte everything from the `get` methods that serve up html to the `post` and `put` methods to interact with our database. So many interconnected parts meant that the Front-end and the Back-end developers had to maintain good communication to produce a coherent product.
+
 
 ## Acknowledgments :pray:
 A huuuuge MEGA bigly thank you to our instructor, Jerome, and the TAs, Amber, Ricky, and Sasha!!  :grimacing:
