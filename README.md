@@ -37,12 +37,12 @@ The main motivation behind this app was we wanted to be able to organize and rem
 ## Routes
 
 <h1 align="center">
-  <img src="public/image/api-routes(1)" alt="buckeTodo" width="500">
-   <img src="public/image/api-routes(2)" alt="buckeTodo" width="500">
+  <img src="public/image/api-routes(1).png" alt="api-routes" width="500">
+   <img src="public/image/api-routes(2).png" alt="api-routes" width="500">
 </h1>
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="public/image/api-routes(2)" alt="buckeTodo" width="500">
-</h1>
+</h1> -->
 
 
 Because this was a full stack app, we had to create our own routes for our client to interact with the server. We had to definte everything from the `get` methods that serve up html to the `post` and `put` methods to interact with our database. So many interconnected parts meant that the Front-end and the Back-end developers had to maintain good communication to produce a coherent product.
@@ -51,8 +51,8 @@ Because this was a full stack app, we had to create our own routes for our clien
 ## Models.
 
 <h1 align="center">
-  <img src="public/image/models" alt="buckeTodo" width="500">
-  <img src="public/image/models-screenshoot" alt="buckeTodo" width="500">
+  <img src="public/image/models.png" alt="Models" width="500">
+  <img src="public/image/models-screenshoot.png" alt="models-Screeshot" width="500">
 </h1>
 We chose to keep the models for the app simple for now: each `user` has many `Buckets` and can save multiple links in each bucket. In addition, a user can create new bucket.
 
