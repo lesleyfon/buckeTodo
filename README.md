@@ -54,7 +54,7 @@ Because this was a full stack app, we had to create our own routes for our clien
   <img src="public/image/models.png" alt="Models" width="700" height="500">
   <img src="public/image/models-screenshoot.png" alt="models-Screeshot"width="700" height="500">
 </h1>
-We chose to keep the models for the app simple for now: each `user` has many `Buckets` and can save multiple links in each bucket. In addition, a user can create new bucket.
+We chose to keep the models for the app simple for now: each user has many Buckets and can save multiple links in each bucket. In addition, a user can create new bucket.
 
 
 ## Acknowledgments :pray:
