@@ -3,6 +3,8 @@
 </h1>
 
 
+BuckeTodo is the Pinterest for bookmarks! Helps you de-clutter your clutter. BuckeTodo is an app that basically organizes and save your links into different categories for easy access and quick remebery of saved links. 
+
 ## Built With :crescent_moon:
 * HTML5 & CSS3
 * [Bootstrap](https://getbootstrap.com/) - CSS framework
