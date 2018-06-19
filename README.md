@@ -18,7 +18,7 @@ The main motivation behind this app was we wanted to be able to organize and rem
 * [Express.js](https://expressjs.com/) - routing framework
 * [Jquery](https://jquery.com/) - Making ajaxs calls 
 
-### NPM Packages
+### NPM Packages :blush:
 * [Express](https://www.npmjs.com/package/express)
 * [body-parser](https://www.npmjs.com/package/body-parser)
 * [mySQL](https://www.npmjs.com/package/mysql)
